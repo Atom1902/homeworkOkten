@@ -1,0 +1,64 @@
+.body {
+  margin: 0;
+}
+.head {
+  display: flex;
+  position: absolute;
+  top: 130px;
+  left: 680px;
+}
+
+.icon {
+  display: flex;
+  column-gap: 20px;
+  position: absolute;
+  /* top: 120px; */
+  left: 500px;
+}
+ion-icon {
+  font-size: 30px;
+  color: rgb(85, 77, 159);;
+}
+
+.headbox {
+  width: 100px;
+  height: 30px;
+  background: rgb(12, 44, 103);
+  border-radius: 10%;
+}
+.container {
+  margin-top: 100px;
+  margin-left: 600px;
+}
+.box {
+  width: 700px;
+  height: 400px;
+  background: silver;
+}
+.box:nth-child(1) {
+  background: silver;
+  height: 80px;
+}
+.box:nth-child(2) {
+  background: rgb(12, 44, 103);
+  height: 200px;
+}
+.box:nth-child(3) {
+  background: silver;
+  height: 150px;
+}
+
+.Wid {
+  display: flex;
+  column-gap: 30px;
+  position: absolute;
+  top: 340px;
+  left: 790px;
+}
+
+.Widgets {
+  width: 100px;
+  height: 100px;
+  background: rgb(85, 77, 159);
+  border-radius: 10%;
+}
