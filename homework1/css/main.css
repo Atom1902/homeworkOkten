@@ -1,0 +1,14 @@
+body {
+      
+    background-color: #ededed;
+}
+
+
+h1, h2 {
+    
+    background: rgb(0, 229, 255);
+    color: black;
+}
+img {
+    width: 200px;
+}

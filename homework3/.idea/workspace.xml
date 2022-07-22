@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ee08916-fb67-4b1a-a86a-bd8d75d60f71" name="Changes" comment="new index,css homework3">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Bt28TgnRY4KrJBx5Mv8vynIInU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.postfix.templates"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ee08916-fb67-4b1a-a86a-bd8d75d60f71" name="Changes" comment="" />
+      <created>1657710912908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657710912908</updated>
+      <workItem from="1657710915408" duration="556000" />
+      <workItem from="1657725860274" duration="1891000" />
+      <workItem from="1657729427254" duration="758000" />
+      <workItem from="1657730226831" duration="47000" />
+      <workItem from="1658078696877" duration="980000" />
+    </task>
+    <task id="LOCAL-00001" summary="new index.,css homework3">
+      <created>1657711454723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657711454739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new index,css homework3">
+      <created>1657729709012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657729709012</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new index,css homework3">
+      <created>1657730255459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657730255460</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new css homework3" />
+    <MESSAGE value="new index.,css homework3" />
+    <MESSAGE value="new index,css homework3" />
+    <option name="LAST_COMMIT_MESSAGE" value="new index,css homework3" />
+  </component>
+</project>
